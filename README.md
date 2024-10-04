@@ -1,2 +1,2 @@
 # nari
-this ismyfirstmy repository
+this is my first repository
