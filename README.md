@@ -1,0 +1,2 @@
+# nari
+this ismyfirstmy repository
